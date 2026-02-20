@@ -21,7 +21,7 @@ Full manifesto includes:
 
 ### Download & Read
 
-- 📄 **PDF**: [Coherence-Theory.pdf](Coherence-Theory.pdf)
+- 📄 **PDF**: [Coherence Theory.pdf](https://github.com/leroyjware/coherence-theory/blob/main/Coherence%20Theory.pdf)
 - 📝 **LaTeX source**: [main.tex](main.tex)
 - 📖 **Plain-text version**: [MANIFESTO.md](MANIFESTO.md)
 
