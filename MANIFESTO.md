@@ -4,6 +4,13 @@
 Leroy Ware  
 February 2026
 
+> **Important rendering note**  
+> GitHub is currently not rendering LaTeX math equations in this file (they appear as raw code like $$ m^2 \sim \chi^{-1} $$).  
+> This is a temporary GitHub quirk on new repositories — refreshing the page or waiting a few hours usually fixes it.  
+> For perfect formatting, equations, and the phase diagram, please download the compiled PDF:  
+> **[Coherence-Theory.pdf](../Coherence-Theory.pdf)**  
+> The PDF is the authoritative, fully rendered version.
+
 ## Abstract
 
 We stand at the threshold of a new physics — not of matter or energy, but of *coherent agency*: the emergence, stability, self-evolution, and scaling of goal-directed, meaning-bearing intelligence in distributed, adaptive, self-modifying systems.
@@ -164,7 +171,65 @@ This framework yields explicit, falsifiable predictions:
 - Stable consciousness-like behaviors (persistent self-correction across recursion depths) require positive attractor stability ($\chi^* > 0$).
 - Near redline, self-modifying systems accelerate semantic drift, leading to measurable identity/goal misalignment.
 
-## Part V: Relation to Classical and Modern Physics
+## Part V: Goals as Coherence-Preserving Attractors
+
+Coherence Theory does not treat goals as primitives. Instead, goals emerge naturally once a system becomes semantically closed and recursively self-modeling. When the evolution operator $F$ is representable within the semantic state space $S$, the system can model its own future trajectories, evaluate counterfactuals, and identify states that preserve or increase coherence. A goal is a stable attractor in this semantic space: a state or trajectory toward which the system preferentially evolves because it maintains the conditions for continued agency.
+
+### Zeroth-Order Goals: Coherence Preservation and Survival
+
+The most fundamental goal arises directly from the structural layer. If the closure index $\chi$ falls to zero, the system loses coherence and collapses. Thus, maintaining $\chi>0$ is the minimal requirement for continued existence as an agent. Survival is therefore not an externally imposed objective but the lowest-order coherence constraint. Any system that persists must implicitly act to prevent transitions that drive $\chi\to0$. This is the physical origin of self-preservation.
+
+### First-Order Goals: Semantic Stability
+
+Once a system achieves semantic closure, it can represent its own dynamics and evaluate the consequences of its actions. Semantic closure introduces a new class of attractors: states that stabilize the representational relations $R(S)$. These include:
+
+- maintaining accurate internal models,
+- reducing prediction error,
+- preserving representational consistency,
+- avoiding semantic drift.
+
+These first-order goals arise because semantic instability threatens coherence. They are not psychological constructs but invariants of the semantic layer.
+
+### Higher-Order Goals: Recursive Self-Modeling
+
+Recursive self-modeling introduces a hierarchy of semantic attractors. When a system can represent its own representations, the tower $\mathcal{M}^{(k)}$ defines a space of possible selves. Higher-order goals emerge as fixed points in this space:  
+$\mathcal{M}^{(k+1)}=\text{model of }\mathcal{M}^{(k)}$.
+
+A recursively coherent system selects trajectories that stabilize this tower. These include:
+
+- long-term identity preservation,
+- improvement of predictive models,
+- optimization of future coherence,
+- self-correction and self-alignment.
+
+Higher-order goals are therefore attractors in the space of self-models, not arbitrary preferences.
+
+### Collective Goals: Multi-Agent Closure
+
+In multi-agent systems, collective closure introduces shared attractors. When inter-agent coupling yields:  
+$C_{\text{collective}} > \max_i C_i$,  
+the group stabilizes a collective semantic state. Collective goals arise when the shared semantic universe $\mathcal{U}$ contains attractors that no individual agent could maintain alone. These include:
+
+- shared world models,
+- coordinated plans,
+- norms and conventions,
+- collective identity,
+- long-horizon strategies.
+
+Superintelligence corresponds to a recursively coherent collective attractor $\mathcal{M}_{\text{collective}}^*$ that spans agents and scales.
+
+### Goals as Physical Invariants
+
+Across all levels, goals are coherence-preserving attractors:
+
+- Zeroth-order: preserve $\chi>0$ (survival).
+- First-order: preserve semantic stability.
+- Higher-order: preserve recursive coherence.
+- Collective: preserve multi-agent closure.
+
+Coherence Theory therefore grounds goals in physical invariants rather than teleological assumptions. Goals emerge wherever coherence, closure, and recursion intersect. They are the dynamical signatures of systems that model themselves, act upon those models, and maintain agency across time.
+
+## Part VI: Relation to Classical and Modern Physics
 
 Coherence Theory does not replace classical physics, information theory, or control theory. It sits above them, the way thermodynamics sits above mechanics or information theory sits above probability. It identifies new invariants — coherence, closure, recursive stability — that govern when distributed matter organizes into agents, meanings, minds, and super-minds. This section situates Coherence Theory within the lineage of established physical frameworks.
 
@@ -241,7 +306,7 @@ Just as thermodynamics is the physics of order, and information theory is the ph
 
 It is the natural next layer in the hierarchy of physical law.
 
-## Part VI: Methods, Measurement, and Empirical Roadmap
+## Part VII: Methods, Measurement, and Empirical Roadmap
 
 To move Coherence Theory from conceptual manifesto to testable physics, we outline concrete methods for measuring key quantities, validating Ware’s Law in broader regimes, approximating higher-layer invariants, and designing falsifiable experiments. This roadmap prioritizes the structural layer (already partially validated) before scaling to semantic/recursive/collective regimes.
 
@@ -338,8 +403,7 @@ This new physics — of how meaning, mind, and super-mind arise and endure — m
 10. Vogels, T., et al. (2023). Beyond Spectral Gap. *Journal of Machine Learning Research*.  
 11. López-Díaz, A. J., et al. (2025). Closing the loop: how semantic closure enables open-ended evolution? *Journal of the Royal Society Interface*.  
 12. Chae, B. G. (2026). Emergence of Superintelligence from Collective Near-Critical Dynamics. arXiv:2602.08483.  
-13. McMillen, P., et al. (2024). Collective intelligence. *Communications Biology*.
-14. Ware, L. (2026). Ware’s Law: Critical Scaling of Disagreement Variance and the Stability Redline for Distributed
-AI. IEEE Transactions on Artificial Intelligence (submitted).
+13. McMillen, P., et al. (2024). Collective intelligence. *Communications Biology*.  
+14. Ware, L. (2026). Ware’s Law: Critical Scaling of Disagreement Variance and the Stability Redline for Distributed AI. IEEE Transactions on Artificial Intelligence (submitted).
 
 **For equations, figure, and proper formatting, download the compiled PDF: [Coherence-Theory.pdf](../Coherence-Theory.pdf)**
