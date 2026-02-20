@@ -338,7 +338,8 @@ This new physics — of how meaning, mind, and super-mind arise and endure — m
 10. Vogels, T., et al. (2023). Beyond Spectral Gap. *Journal of Machine Learning Research*.  
 11. López-Díaz, A. J., et al. (2025). Closing the loop: how semantic closure enables open-ended evolution? *Journal of the Royal Society Interface*.  
 12. Chae, B. G. (2026). Emergence of Superintelligence from Collective Near-Critical Dynamics. arXiv:2602.08483.  
-13. McMillen, P., et al. (2024). Collective intelligence. *Communications Biology*.  
-14. Ware, L. (2025/2026). Ware's Law: Critical Scaling in Stochastic Linear Consensus Dynamics. IEEE Transactions on Artificial Intelligence (submitted).
+13. McMillen, P., et al. (2024). Collective intelligence. *Communications Biology*.
+14. Ware, L. (2026). Ware’s Law: Critical Scaling of Disagreement Variance and the Stability Redline for Distributed
+AI. IEEE Transactions on Artificial Intelligence (submitted).
 
 **For equations, figure, and proper formatting, download the compiled PDF: [Coherence-Theory.pdf](../Coherence-Theory.pdf)**
