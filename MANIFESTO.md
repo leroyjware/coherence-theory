@@ -38,7 +38,9 @@ Distributed systems cross thresholds where classical theories fail. The central 
 - **Agent**: A distributed system exhibiting unified, goal-directed behavior across its components, characterized by low disagreement variance and positive closure index.
 - **Coherence** ($C$): The degree to which the system acts as a single, aligned entity; high $C$ implies bounded disagreement and effective collective decision-making.
 - **Closure** ($\chi$): A stability metric ensuring information flow and coupling dominate noise/drift; $\chi > 0$ is necessary for sustained agency.
-- **Semantic state** ($S = (X, \mathcal{M}, \mathcal{R})$): The triple comprising substrate dynamics ($X$), internal representations/models ($\mathcal{M}$), and relations that endow those models with causal/representational power ($\mathcal{R}$).
+- **Semantic state** — the triple comprising substrate dynamics ($X$), internal representations/models ($\mathcal{M}$), and relations that endow those models with causal/representational power ($\mathcal{R}$):
+
+  $$ S = (X, \mathcal{M}, \mathcal{R}) $$
 
 ### Fundamental Quantities
 
