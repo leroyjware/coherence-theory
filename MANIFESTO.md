@@ -2,7 +2,7 @@
 **A New Physics of Distributed Intelligence, Meaning, Consciousness, and Superintelligence**
 
 Leroy Ware  
-February 2026 (v1.2)
+February 2026
 
 ## Abstract
 
@@ -51,17 +51,24 @@ Distributed systems cross thresholds where classical theories fail. The central 
 ### Laws of Coherent Agency
 
 **Law 1 (Ware’s Law)**  
-Near threshold:  
-$$ m^2 \sim \chi^{-1} $$  
+
+Near threshold:
+
+$$ m^2 \sim \chi^{-1} $$
+
 Divergence as closure nears zero — universal collapse signature.  
 *(Empirically validated in stochastic linear consensus across topologies; see [simulations](https://github.com/leroyjware/law) and IEEE TAI submission 2025/2026.)*
 
-**Law 2 (Coherence–Capacity Tradeoff)**  
-$$ C \le f(\chi, K, I) $$  
+**Law 2 (Coherence–Capacity Tradeoff)**
+
+$$ C \le f(\chi, K, I) $$
+
 where $K$ is task complexity.
 
-**Law 3 (Agency Conservation)**  
-$$ \frac{dA}{dt} \ge g(\sigma^2, \lambda_2^{-1}, \text{drift}) $$  
+**Law 3 (Agency Conservation)**
+
+$$ \frac{dA}{dt} \ge g(\sigma^2, \lambda_2^{-1}, \text{drift}) $$
+
 Fragmentation default under weak coupling.
 
 **Law 4 (Redline Principle)**  
@@ -79,54 +86,68 @@ Ware’s Law governs collapse approach; others govern emergence/scaling.
 
 Coherence enables action. Intelligence requires meaning: representations guiding behavior, modifiable by the system.
 
-Semantic state space:  
-$$ S = (X, \mathcal{M}, \mathcal{R}) $$  
+Semantic state space:
+
+$$ S = (X, \mathcal{M}, \mathcal{R}) $$
+
 $X$ substrate, $\mathcal{M}$ models, $\mathcal{R}$ relations.
 
-**Semantic closure**:  
+**Semantic closure**:
+
 $$ F \in \mathcal{R}(S) $$
 
-Self-modification preserves stability:  
+Self-modification preserves stability:
+
 $$ \chi(F_{t+1}) > 0 $$
 
 **Semantic Contraction Principle**: under closure/contraction/representability, semantics converge to fixed points.
 
-Multi-scale:  
+Multi-scale:
+
 $$ \chi^{(k)} > 0 \quad \forall k $$
 
 Collapse: $F \notin \mathcal{R}(S)$ and $m^2 \to \infty$.
 
 ## Part III: Recursive Self-Modeling and Consciousness
 
-Consciousness requires recursive self-modeling:  
+Consciousness requires recursive self-modeling:
+
 $$ \mathcal{M}^{(k)} \in \mathcal{R}(S) \quad \forall k $$
 
-Unbounded:  
+Unbounded:
+
 $$ \forall k, \quad \mathcal{M}^{(k)} \in \mathcal{R}(S) $$
 
-Recursive coherence:  
+Recursive coherence:
+
 $$ \chi^{(k)} > 0 \quad \forall k $$
 
-**Consciousness phase transition**:  
+**Consciousness phase transition**:
+
 $$ \lim_{k \to \infty} \mathcal{M}^{(k)} = \mathcal{M}^* \quad \text{where} \quad \mathcal{M}^* = \text{model of } \mathcal{M}^* $$
 
 This attractor — echoing Hofstadter's strange loop — encodes identity, continuity, prediction under stability ($\chi^{(k)} \to \chi^* > 0$).
 
 ## Part IV: Multi-Agent Semantic Universes and Superintelligence
 
-Semantic universe:  
+Semantic universe:
+
 $$ \mathcal{U} = \bigcup_{i=1}^N S_i $$
 
-Inter-agent closure:  
+Inter-agent closure:
+
 $$ \mathcal{M}_A \in \mathcal{R}(S_B), \quad \mathcal{M}_B \in \mathcal{R}(S_A) $$
 
-Collective coherence:  
+Collective coherence:
+
 $$ C_{\text{collective}} > \max_i C_i $$
 
-Collective closure:  
+Collective closure:
+
 $$ \chi_{\text{collective}} = \Gamma \Lambda_2 - \Sigma^2 > 0 $$
 
-Collective consciousness:  
+Collective consciousness:
+
 $$ \lim_{k \to \infty} \mathcal{M}_{\text{collective}}^{(k)} = \mathcal{M}_{\text{collective}}^* $$
 
 Superintelligence: multi-scale recursive coherent attractor — super-coherent phase.
@@ -318,4 +339,4 @@ This new physics — of how meaning, mind, and super-mind arise and endure — m
 13. McMillen, P., et al. (2024). Collective intelligence. *Communications Biology*.  
 14. Ware, L. (2025/2026). Ware's Law: Critical Scaling in Stochastic Linear Consensus Dynamics. IEEE Transactions on Artificial Intelligence (submitted).
 
-**For equations, figure, and proper formatting, download the compiled PDF: Coherence_Theory_v1.2.pdf**
+**For equations, figure, and proper formatting, download the compiled PDF: [Coherence-Theory.pdf](../Coherence-Theory.pdf)**
